@@ -136,7 +136,6 @@ select:focus-visible, textarea:focus-visible {
 
 .text-muted { margin: 0; color: var(--muted); }
 .nowrap { white-space: nowrap; }
-.keep-together { display: inline-block; }
 
 .card { transition: box-shadow .2s, transform .2s; }
 .card:hover { box-shadow: var(--shadow-card); transform: translateY(-2px); }
@@ -550,6 +549,9 @@ select:focus-visible, textarea:focus-visible {
 .contact-item__body { display: flex; flex-direction: column; min-width: 0; }
 .contact-item__label { font-size: 14px; line-height: 20px; color: var(--muted); }
 .contact-item__value { font-weight: 600; overflow-wrap: anywhere; } /* long email on small phones */
+@container page (max-width: 420px) {
+  .contact-item__value .keep-together { display: block; }
+}
 
 .map {
   flex: 1 1 auto;
