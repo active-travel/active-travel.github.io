@@ -4,7 +4,7 @@
 
 Active Travel & Logistics is a licensed travel agency in Mogadishu, Somalia. For more than eight years we have helped business travellers, NGOs, government delegations and families travel to and from Somalia, with fair prices and no hidden fees.
 
-🌐 **Website:** https://active-travel.github.io/
+🌐 **Website:** https://activetravellogistics.com/
 
 ## What we do
 - **Flight booking:** domestic and international tickets at the best available fares, with changes and rebooking handled for you
