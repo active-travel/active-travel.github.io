@@ -16,7 +16,7 @@ We book local routes across Somalia (Mogadishu, Kismayo, Baydhabo, Dhusomareeb, 
 
 ## Contact
 - **Phone / WhatsApp:** [+252 61 458 5666](https://wa.me/252614585666)
-- **Email:** active.procurement2019@gmail.com
+- **Email:** info@activetravellogistics.com
 - **Office:** Bulohubey near Hayat Market, Wadajir, Mogadishu, Somalia
 - **Facebook:** https://www.facebook.com/share/1CkU4WiZiv/
 
